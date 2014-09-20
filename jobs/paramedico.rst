@@ -5,6 +5,8 @@ Como paramédico, tu misión es revivir a los ciudadanos fallecidos por medio de
 
 Aparte de tener acceso al grupo de la policía, a su agenda y al nexus, tienes una ambulancia por 5.000€ a tu disposición (no puedes usar otros coches), que tiene una sirena activable con la tecla **"ALT"**.
 
+Como miembro del gobierno, debes tener las printers en el banco obligatoriamente, y además no puedes llevar nunca armas.
+
 Revivir
 -------
 
