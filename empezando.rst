@@ -113,7 +113,7 @@ Comandos
 ^^^^^^^^
 Para realizar algunas acciones en el servidor es necesario usar comandos. A continuación te dejamos una lista de los más sencillos y/o más utilizados.
 
-* ``/advert`` Como si publicas un anuncio en el periódico.  Ejemplo: /me nueva tienda de lavadoras en la ciudad
+* ``/advert`` Como si publicas un anuncio en el periódico.  Ejemplo: /advert nueva tienda de lavadoras en la ciudad
 * ``/me acción`` Realizas una acción.  Ejemplo: /me guarda el dinero
 * ``/channel número``  Selecciona la frecuencia de radio que usas
 * ``/radio mensaje``  Habla por la frecuencia de radio que has seleccionado
