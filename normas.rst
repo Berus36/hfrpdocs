@@ -1,4 +1,5 @@
-# Normas del servidor
+Normas del servidor
+===================
 
 Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo más claras posibles y sencillas de cumplir. Sabemos que es imposible cubrir todo, por lo que si te encuentras con un vacío en las normas te pedimos que nos lo comuniques y que preguntes a un admin en el juego antes de actuar.
 
