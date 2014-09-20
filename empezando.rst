@@ -97,7 +97,7 @@ El rol está *situado* en una ciudad ficticia llamada **Evocity**. Evocity es to
 
 Luego están los ciudadanos, que pueden dedicarse a la venta de comida, armamento, material ilegal, pueden alquilar habitaciones del hotel, guardar printers en el banco o simplemente no hacer nada y mendigar.
 
-Para terminar, están los asesinos a sueldo y las bandas organizadas, que son la base del crimen organizado. Te secuestrarán, robarán o incluso se atreverán a asaltarán al alcalde a la mínima muestra de intención de tornar su mandato en una dictadura o si sus leyes son muy duras. 
+Para terminar, están los asesinos a sueldo y las bandas organizadas, que son la base del crimen organizado. Te secuestrarán, robarán o incluso se atreverán a asaltar al alcalde a la mínima muestra de intención de tornar su mandato en una dictadura o si sus leyes son muy duras. 
 
 Teclas
 ^^^^^^
