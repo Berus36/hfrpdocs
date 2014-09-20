@@ -32,12 +32,12 @@ Normas de rol generales
 
 1. Usa el sentido común. Que una norma no se indique por razones obvias no significa que no pueda ser aplicada.
 2. El objetivo del servidor es comportarse como el personaje de la vida real al que representas (dentro de lo que DarkRP ofrece).
-3. No hagas [FailRP](index.md#FailRP). No hagas acciones que una persona en tu situación/job/rol no haría e intenta seguir el rol todo el rato.
+3. No hagas FailRP. No hagas acciones que una persona en tu situación/job/rol no haría e intenta seguir el rol todo el rato.
 4. No te desconectes/suicides/cambies de job o lo que sea para evadir una situación de rol.
 5. No rolees una violación ni acoso sexual.
-6. Mata sólo por una razón dentro de tu rol (No hagas [RDM](index.md#RDM)).
-7. No mates a la gente por su job/skin/nombre. ([RDM](index.md#RDM))
-8. [NLR (New Life Rule)](index.md#NLR) significa que al morir empiezas una nueva vida, olvidando todo acerca de la anterior. No puedes vengarte en caso de haber sido asesinado ni tampoco puedes volver al sitio en el que has sido matado en 5 minutos.
+6. Mata sólo por una razón dentro de tu rol (No hagas RDM).
+7. No mates a la gente por su job/skin/nombre. (RDM)
+8. NLR (New Life Rule significa que al morir empiezas una nueva vida, olvidando todo acerca de la anterior. No puedes vengarte en caso de haber sido asesinado ni tampoco puedes volver al sitio en el que has sido matado en 5 minutos.
 9. No confundas OOC con IC: no uses informacion del chat OOC para tu personaje de rol.
 10. Debes rolear solo tu job: el alcalde no es policía, el mafioso no vende armas, etc.
 11. No te cambies de job simplemente para comprar algo y volver al que estabas. (Tampoco para cualquier otra razón que te beneficie a ti o a otros)
@@ -46,12 +46,12 @@ Normas de rol generales
 14. El job personalizado no puede cambiar el rol que realizaba tu trabajo original demasiado, al igual que no puedes hacer de otro job siendo un job. Por ejemplo, si eres ladrón no puedes ponerte policía o viceversa.
 15. Antes de hacer un demote llama a un ayudante o a un administrador y habla con él sobre lo ocurruido. No demotees nunca si te han hecho un random demote
 16. No puedes impedir a un paramédico hacer su trabajo
-17. Cuando un paramédico te revive debes, sin influir con el rol, alejarte lo máximo posible del sitio donde has muerto y complir con el [NLR](index.md#NLR)
+17. Cuando un paramédico te revive debes, sin influir con el rol, alejarte lo máximo posible del sitio donde has muerto y complir con el NLR
 18. Para hackear el cajero hace falta que haya bastantes usuarios conectados además de policía activa. (No os pongáis a farmear por la noche ya que se revisarán los logs y se baneará)
 19. Esta prohibido tener la physgun de color negro
 20. Prohibido dejar o poner cosas en zonas inaccesibles (por ejemplo, con el uso de drogas o bugs)
 21. Si te roban el coche no puedes respawnearlo
-22. Cuando mueres, debes esperar a que termine el [NLR](index.md#NLR) para respawnear el coche
+22. Cuando mueres, debes esperar a que termine el NLR para respawnear el coche
 23. Cuando te cambias de job también hay NLR
 24. Cuando estás muerto no debes hablar por voz y sólo puedes escribir por OOC
 25. Debes tratar a todo el mundo como un ciudadano normal excepto si es policía, swat, alcalde, paramédico o chef
@@ -119,7 +119,7 @@ Normas sobre asaltos
 2. Las propiedades asaltables serán Nexo, banco (zona de printers, cajero no es necesario avisar), base mafiosa y base de la banda)
 3. Los asaltos se declararan al comienzar y al acabar dicho asalto por advert (/advert Comienza el asalto al nexo)(/advert finaliza el asalto al nexo). El asalto finaliza automaticamente si el equipo asaltante es eliminado.
 4. Si el asalto es al nexo, y se declara /lockdown, se elimina la limitacion de 5 minutos de lockdown y se extiende hasta que finalice el asalto
-5. Durante los asaltos, el [NLR](index.md#NLR) se extiende hasta finalizado el asalto. Es decir, si hay 4 mafiosos asaltando el nexo y mueren 2 polcias y 2 mafioso, dichos usuarios NO PUEDEN VOLVER al asalto hasta que esté finalizado. Refenrente a esto, la policia debe salir del nexo con physgun y la mafia dejarles en paz. Diferenciadlos por la physgun.
+5. Durante los asaltos, el NLR se extiende hasta finalizado el asalto. Es decir, si hay 4 mafiosos asaltando el nexo y mueren 2 polcias y 2 mafioso, dichos usuarios NO PUEDEN VOLVER al asalto hasta que esté finalizado. Refenrente a esto, la policia debe salir del nexo con physgun y la mafia dejarles en paz. Diferenciadlos por la physgun.
 6. Si muere un integrante que es necesario (Por ejemplo, el que lleva la lockpick o el keypadcracker) los atacantes no pueden llamar a un traficante en mitad del asalto. Deberan cancelar el asalto si no disponen de herramientas para pasar si hay fading doors o puertas cerradas.
 7. La policía no tiene que poner adverts avisando
 
@@ -182,7 +182,7 @@ Mafiosos/Banda
 1. Se deben obedecer las órdenes del líder. Si este no manda órdenes, se le avisa por chat grupal (tecla U default). Si se niega, es demoteable.
 3. Debes trabajar siempre para que tu organización se vea beneficiada, no puedes ser un topo de la policía, etc.
 4. No le declares la guerra a la policía ni a la otra banda
-5. La mafia no está por encima de las normas. Se le aplica tanto el [RDM](index.md#RDM) como el CDM.
+5. La mafia no está por encima de las normas. Se le aplica tanto el RDM como el CDM.
 6. Conducid bien a no ser que estéis huyendo.
 7. Solo pueden matar a alguien si se niega a cumplir una orden por amenaza directa o es considerado una amenaza. (La policía sólo es una amenaza si te está persiguiendo para ponerte wanted, te ha puesto wanted y te está persiguiendo o si te han puesto warrant y te están entrando)
 8. No puedes amenazar a los paramédicos para no revivir a ciertas personas.
@@ -202,7 +202,7 @@ Asesino a sueldo
 
 1. Precio máximo del hit: 5000 €. En caso de que el hit cueste más de 1000 €, se debe avisar antes de aceptarlo, y si el usuario pide que no se acepte, no debe ser aceptado.
 2. Sólo puedes matar en defensa propia (sólo si te disparan) o si te han contratado usando el menú del hitman (tecla E mirando hacia el hitman).
-3. Debes finalizar tu contrato a toda costa. Desconectarse o quedarse afk es considerado [FailRP](index.md#FailRP).
+3. Debes finalizar tu contrato a toda costa. Desconectarse o quedarse afk es considerado FailRP.
 4. No puedes aceptar un hit contra otro asesino a sueldo.
 5. No puedes aliarte con otros asesinos a sueldo para hacer un hit.
 6. No puedes pedir a alguien que te mande un hit contra una persona concreta.
@@ -277,5 +277,5 @@ Todos los vendedores en general
 
 1. Deben de tener una tienda con su respectivo título antes de ponerse a trabajar, no puedes vender sin tienda. (Si eres vendedor ambulante también)
 2. Esta tienda debe de ser anunciada de vez en cuando con el comando /advert.
-1. No puedes relacionarte con la mafia o banda (tampoco vivir con ellos, compartir una puerta/coche)
+3. No puedes relacionarte con la mafia o banda (tampoco vivir con ellos, compartir una puerta/coche)
 
