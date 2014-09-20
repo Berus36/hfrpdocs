@@ -40,5 +40,5 @@ Guías de jobs:
 .. toctree::
    :maxdepth: 1
    
-   /jobs
+   jobs/index
    
