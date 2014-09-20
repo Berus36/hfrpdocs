@@ -16,6 +16,7 @@ Si tienes alguna duda que no se resuelva con esto, dirígete a nuestro `foro`_.
 Esta wiki o documentación está dividida en varias secciones:
 
 Normas:
+-------
 
 .. toctree::
    :maxdepth: 3
