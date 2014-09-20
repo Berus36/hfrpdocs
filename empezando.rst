@@ -37,7 +37,7 @@ NLR
 ^^^
 Existe una norma que dice que al morir, inicias una vida nueva. Esta es una de las normas más importantes y con mayor influencia sin ninguna duda. 
 
-NLR, del inglés *New Life Rule*, es una norma que más o menos dice que cuando mueres, y aunque te reviva un paramédico, tu personaje, al volver a aparecer te *olvidarás* de todo lo ocurrido en tu *anterior* vida. Esto incluye cosas como quién te ha matado, dónde había printers o quién te ha robado en tu tienda. Si mueres como policía, al respawnear serás un nuevo policía, y así con los demás trabajos.
+NLR, del inglés *New Life Rule*, es una norma que más o menos dice que cuando mueres, y aunque te reviva un paramédico, al volver a aparecer te *olvidarás* de todo lo ocurrido en tu *anterior* vida. Esto incluye cosas como quién te ha matado, dónde había printers o quién te ha robado en tu tienda. Si mueres como policía, al respawnear serás un nuevo policía, y así con los demás trabajos.
 
 Además de todo esto, al morir no podrás volver a la zona de tu muerte durante 5 minutos como mínimo, tampoco podrás respawnear tu coche durante ese tiempo.
 
@@ -97,7 +97,7 @@ El rol está *situado* en una ciudad ficticia llamada **Evocity**. Evocity es to
 
 Luego están los ciudadanos, que pueden dedicarse a la venta de comida, armamento, material ilegal, pueden alquilar habitaciones del hotel, guardar printers en el banco o simplemente no hacer nada y mendigar.
 
-Para terminar, están los asesinos a sueldo y las bandas organizadas, que son la base del crimen organizado. Te secuestrarán, robarán o incluso se atreverán a asaltarán al alcalde a la mínima muestra de intención de tornar su mandato en una dictadura o si sus leyes son muy duras. 
+Para terminar, están los asesinos a sueldo y las bandas organizadas, que son la base del crimen organizado. Te secuestrarán, robarán o incluso se atreverán a asaltar al alcalde a la mínima muestra de intención de tornar su mandato en una dictadura o si sus leyes son muy duras. 
 
 Teclas
 ^^^^^^
