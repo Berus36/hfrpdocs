@@ -50,17 +50,18 @@ Las perks son mejoras que el alcalde puede comprar a sus agentes de policía a c
 
 Hay cuatro perks:
 
-* Entrenamiento policial
+* Entrenamiento policial  
   * Permite a tus agentes entrenarse para saltar y correr más rápido
   * Coste: 2.500€
-* Resistencia
+* Resistencia  
   * Permite a tus agentes seleccionar una mejora en su resistencia al daño
   * Coste: 2.500€
 * Armamento
   * Permite a tus agentes seleccionar armas más avanzadas:
-    * Agente de policía y sargento: M4A1, MP5A5.
-    * Unidad de SWAT: UMP 45, M4A1, Desert Eagle.
-    * Sargento de SWAT: UMP 45, M4A1, Steyr Scout, Desert Eagle.
+    * Agente de policía: M4A1, MP5A5.
+    * Sargento de policía: M4A1, MP5A5, M3 Super 90.
+    * Unidad de SWAT: M4A1, M3 Super 90.
+    * Sargento de SWAT: M4A1, MP5A5, M82.
   * Coste: 5.000€
 * Chalecos antibalas
   * Permite a tus agentes equiparse con chaleco
