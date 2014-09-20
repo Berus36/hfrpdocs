@@ -88,9 +88,50 @@ Ejemplos de buena diferenciación de IC/OOC:
 
 Metagaming
 ^^^^^^^^^^
-Si usas el chat OOC para decir cosas IC se considera Metagaming, al igual que tratar diferente a alguien porque leas que es por ejemplo *Asesino a sueldo*. Tampoco puedes servirte del feed de muertes para saber que han matado a alguien, y tampoco puedes usarlo para saber quién.
+Si usas el chat OOC para decir cosas IC se considera Metagaming, al igual que tratar diferente a alguien porque leas que es por ejemplo *Asesino a sueldo*. Tampoco puedes servirte del feed de muertes para saber que han matado a alguien, y tampoco puedes usarlo para saber quién. Si por ejemplo ves un /me que dice: Saca 500€ de una printer azul, no puedes usarlo como policía como razón para entrar ya que no has visto la printer.
 
+Funcionamiento del servidor
+---------------------------
 
+El rol está *situado* en una ciudad ficticia llamada **Evocity**. Evocity es todo el mapa. El ayuntamiento (también llamado nexus), es el lugar desde donde el alcalde gobierna la ciudad controlando a la policía, manejando la economía (pone las tasas), poniendo las leyes y decretando toques de queda. La policía y el SWAT (una unidad especial que se encarga de asaltos y del nexus) tienen ahí la comisaría, donde guardan sus coches y está la prisión. Para terminar con el gobierno, están los paramédicos: se dedican a ofrecer primeros auxilios y a reanimar con su desfibrilador.
+
+Luego están los ciudadanos, que pueden dedicarse a la venta de comida, armamento, material ilegal, pueden alquilar habitaciones del hotel, guardar printers en el banco o simplemente no hacer nada y mendigar.
+
+Para terminar, están los asesinos a sueldo y las bandas organizadas, que son la base del crimen organizado. Asaltarán al alcalde a la mínima muestra de intención de tornar su mandato en una dictadura o si sus leyes son muy duras. 
+
+Teclas
+^^^^^^
+
+* Mantén pulsada la **T** para abrir el teléfono
+* Pulsa y para hablar por chat normal
+* Pulsa u para hablar por chat de grupo
+* Pulsa F1 para abrir la página de ayuda y la lista de comandos
+* Pulsa F4 para abrir el panel de jobs y de compra de objetos
+
+Comandos
+^^^^^^^^
+Para realizar algunas acciones en el servidor es necesario usar comandos. A continuación te dejamos una lista de los más sencillos y/o más utilizados.
+
+| Comando | Explicación |
+| ---- | ---- |
+| ``/me acción`` | Realizas una acción. Ejemplo: /me guarda el dinero |
+| ``/channel número`` | Selecciona la frecuencia de radio que usas |
+| ``/radio mensaje`` | Habla por la frecuencia de radio que has seleccionado |
+| ``/cheque usuario cantidad`` | Extiende un cheque de manera que sólo el usuario pueda recogerlo |
+| ``/cr mensaje`` | Manda un mensaje a la policía (como llamar al 112) |
+| ``/demote usuario razón`` | Tras hablarlo con un admin, echa del trabajo a alguien |
+| ``/dropmoney cantidad`` | Tira dinero al suelo |
+| ``/give cantidad`` | Da dinero a la persona a la que miras |
+| ``/job trabajo`` | Cambia el nombre a mostrar de tu trabajo |
+| ``/nick nombre`` | Cambia tu nombre a mostrar |
+| ``/requestlicense`` | Pide una licencia a la persona a la que miras |
+| ``/sleep`` | Duermes. Cuidado: sancionable si se abusa |
+| ``/title título`` | Ponle título a una puerta |
+| ``/type mensaje`` | Escribe un mensaje en un papel |
+| ``/y mensaje`` | Grita un mensaje |
+| ``/y mensaje`` | Susurra un mensaje |
+| ``/removeletters`` | Elimina todos los papeles que has escrito |
+| ``/afk`` | Cambia entre modo AFK y no AFK. Aviso: No debe usarse para desbuguearse o para cualquier otro fin que no sea marcar que estamos ausentes por un rato largo. |
 
 
 
