@@ -112,28 +112,24 @@ Comandos
 ^^^^^^^^
 Para realizar algunas acciones en el servidor es necesario usar comandos. A continuación te dejamos una lista de los más sencillos y/o más utilizados.
 
-=======  ===========
-Comando  Explicación
-=======  ===========
-/me acción Realizas una acción.  Ejemplo: /me guarda el dinero
-``/channel número``  Selecciona la frecuencia de radio que usas
-``/radio mensaje``  Habla por la frecuencia de radio que has seleccionado
-``/cheque usuario cantidad``  Extiende un cheque de manera que sólo el usuario pueda recogerlo
-``/cr mensaje``  Manda un mensaje a la policía (como llamar al 112)
-``/demote usuario razón``  Tras hablarlo con un admin, echa del trabajo a alguien
-``/dropmoney cantidad``  Tira dinero al suelo
-``/give cantidad``  Da dinero a la persona a la que miras
-``/job trabajo``  Cambia el nombre a mostrar de tu trabajo
-``/nick nombre``  Cambia tu nombre a mostrar
-``/requestlicense``  Pide una licencia a la persona a la que miras
-``/sleep``  Duermes. Cuidado: sancionable si se abusa
-``/title título``  Ponle título a una puerta
-``/type mensaje``  Escribe un mensaje en un papel
-``/y mensaje``  Grita un mensaje
-``/w mensaje``  Susurra un mensaje
-``/removeletters``  Elimina todos los papeles que has escrito
-``/afk``  Cambia entre modo AFK y no AFK. Aviso: No debe usarse para desbuguearse o para cualquier otro fin que no sea marcar que estamos ausentes por un rato largo. 
-========  ===============
+* ``/me acción`` Realizas una acción.  Ejemplo: /me guarda el dinero
+* ``/channel número``  Selecciona la frecuencia de radio que usas
+* ``/radio mensaje``  Habla por la frecuencia de radio que has seleccionado
+* ``/cheque usuario cantidad``  Extiende un cheque de manera que sólo el usuario pueda recogerlo
+* ``/cr mensaje``  Manda un mensaje a la policía (como llamar al 112)
+* ``/demote usuario razón``  Tras hablarlo con un admin, echa del trabajo a alguien
+* ``/dropmoney cantidad``  Tira dinero al suelo
+* ``/give cantidad``  Da dinero a la persona a la que miras
+* ``/job trabajo``  Cambia el nombre a mostrar de tu trabajo
+* ``/nick nombre``  Cambia tu nombre a mostrar
+* ``/requestlicense``  Pide una licencia a la persona a la que miras
+* ``/sleep``  Duermes. Cuidado: sancionable si se abusa
+* ``/title título``  Ponle título a una puerta
+* ``/type mensaje``  Escribe un mensaje en un papel
+* ``/y mensaje``  Grita un mensaje
+* ``/w mensaje``  Susurra un mensaje
+* ``/removeletters``  Elimina todos los papeles que has escrito
+* ``/afk``  Cambia entre modo AFK y no AFK. Aviso: No debe usarse para desbuguearse o para cualquier otro fin que no sea marcar que estamos ausentes por un rato largo. 
 
 
 
