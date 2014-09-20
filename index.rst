@@ -36,9 +36,10 @@ Normas:
 
 Guías de jobs:
 --------------
+:doc:`jobs/index`
 
 .. toctree::
    :maxdepth: 1
    
-   jobs/index
+   jobs/alcalde
    
