@@ -279,4 +279,3 @@ Todos los vendedores en general
 1. Deben de tener una tienda con su respectivo título antes de ponerse a trabajar, no puedes vender sin tienda. (Si eres vendedor ambulante también)
 2. Esta tienda debe de ser anunciada de vez en cuando con el comando /advert.
 3. No puedes relacionarte con la mafia o banda (tampoco vivir con ellos, compartir una puerta/coche)
-
