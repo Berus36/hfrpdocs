@@ -251,7 +251,7 @@ Ciudadano
 2. No puedes usar una lockpick ni un keypad cracker, tampoco asaltar, participar en asaltos ni robar dinero, comida, printers, etc.
 3. No puedes matar al alcalde.
 4. No puedes retirar el hackeador de cajeros del banco.
-5. Subirse encima de alguien taseado para matarle es RDM.
+5. Subirse encima de alguien taseado puede ser considerado RDM.
 
 Mendigo
 ^^^^^^^
