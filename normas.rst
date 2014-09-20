@@ -1,5 +1,5 @@
-Normas del servidor
-===================
+Normas
+======
 
 Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo más claras posibles y sencillas de cumplir. Sabemos que es imposible cubrir todo, por lo que si te encuentras con un vacío en las normas te pedimos que nos lo comuniques y que preguntes a un admin en el juego antes de actuar.
 
@@ -20,13 +20,15 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 13. El aprovechamiento de bugs es ban. Avisa a un administrador o reporta los bugs en el foro
 14. No engañes a un usuario con una norma falsa o le incites a incumplir las normas.
 
-## Normas de chat
+Normas de chat
+--------------
 
 1. No spamees por chat
 2. No uses informacion del chat de OOC o del tabulador para tu rol.
 3. No discutas por OOC
 
-## Normas de rol generales
+Normas de rol generales
+-----------------------
 
 1. Usa el sentido común. Que una norma no se indique por razones obvias no significa que no pueda ser aplicada.
 2. El objetivo del servidor es comportarse como el personaje de la vida real al que representas (dentro de lo que DarkRP ofrece).
@@ -57,7 +59,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 27. Cuando te expulsan de un coche con el Battering Ram no puedes volver a subir a él hasta que el policía te lo indique
 
 
-## Normas de props
+Normas de props
+---------------
 
 1. No mates con props a otros ni a ti mismo en ninguna situación.
 2. No empujes con props nada. Esto incluye jugadores y otros props.
@@ -76,7 +79,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 16. Controla a quién le das permiso para mover tus props: tus props son tus props. Tú serás sancionado si la otra persona no es encontrada.
 17. Si el alcalde dice que debes retirar una construcción en la calle debes hacerlo inmediatamente
 
-## Normas de bases
+Normas de bases
+---------------
 
 1. Las bases deben ser construidas en tu propiedad, usando el edificio. (Una valla exterior se puede poner, pero no puede hacerse otra estructura sobre el edificio)
 2. Las vallas de las bases deben de ser de un tamaño realista. Las bases no pueden ser fortalezas. No se puede andar sobre ellas ni disparar sobre ellas.
@@ -91,7 +95,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 11. No puedes hacer una doble puerta: una puerta nada mas salir de otra, ni dos en el mismo lugar. Debe haber espacio para que la otra puerta se abra y que quepa una persona entre ambas.
 12. No se puede usar el no collide everything para una construcción acabada. (Sólo se puede usar para construirla, luego hay que quitarlo.)
 
-## Normas de vehículos
+Normas de vehículos
+-------------------
 
 * Coche = Vehículos (camiones, triciclos, etc.)
 
@@ -107,7 +112,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 10. Prohibido poner anuncios o datáfonos en los coches.
 11. La policía debe llevar su coche de oficio al igual que los paramédicos.
 
-## Normas sobre asaltos
+Normas sobre asaltos
+--------------------
 
 1. Los unicos que pueden declarar un asalto seran los líderes de banda y los sargentos.
 2. Las propiedades asaltables serán Nexo, banco (zona de printers, cajero no es necesario avisar), base mafiosa y base de la banda)
@@ -117,9 +123,11 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 6. Si muere un integrante que es necesario (Por ejemplo, el que lleva la lockpick o el keypadcracker) los atacantes no pueden llamar a un traficante en mitad del asalto. Deberan cancelar el asalto si no disponen de herramientas para pasar si hay fading doors o puertas cerradas.
 7. La policía no tiene que poner adverts avisando
 
-## Normas sobre los jobs
+Normas sobre los jobs
+---------------------
 
-### Alcalde
+Alcalde
+^^^^^^^
 
 1. No puede saltarse sus propias normas
 2. Tras poner /lockdown has de dar un motivo válido por /broadcast, pueden durar máximo 5 minutos. (El alcalde se encargará de controlar el tiempo)
@@ -129,7 +137,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 6. El alcalde no puede hacer leyes que le pongan de excepción de sus propias leyes, tampoco leyes que le permitan hacer algo ilegal.
 7. El alcalde no puede ir por ahí ordenando arrestar a gente o dando órdenes directas a la policía
 
-### Policía
+Policía
+^^^^^^^
 
 1. Tienes prohibido disparar a aquellos que no usen fuerza letal. Tienes un taser a tu disposición que puedes usar si las personas intentan huir.
 2. No debes desenfundar en publico.
@@ -148,14 +157,16 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 15. El sargento de policia no puede ser corrupto. Esto indica que no puede hacer la vista gorda, no puede aceptar sobornos y por supuesto, la norma de encima se aplica al sargento de forma que no puede contratar al hitman contra nadie del gobierno
 16. Las fuerzas de la ley son las unicas encargardas de quitar el Crackeador de Cajeros. Los ciudadanos no pueden arriesgar su vida para quitarlo, y el alcalde mucho menos.
 
-### SWAT
+SWAT
+^^^^
 
 1. Se aplican las normas de policía salvo que alguna interfiera con la otra
 2. El SWAT no debe patrullar. Su función es participar en redadas/asaltos policiales. Puede responder a los /cr.
 3. El SWAT no puede ser corrupto
 4. El SWAT debe usar el Hammer
 
-### Paramédico
+Paramédico
+^^^^^^^^^^
 
 1. No puedes aliarte con la mafia ni debes participar en nada ilegal.
 2. Se te aplica el Juramento Hipocrático. No puedes llevar armas.
@@ -165,7 +176,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 6. No puedes spamear la sirena de la ambulancia salvo que sea una emergencia real
 7. Debes tener las printers en el banco.
 
-### Mafiosos/Banda
+Mafiosos/Banda
+^^^^^^^^^^^^^^
 
 1. Se deben obedecer las órdenes del líder. Si este no manda órdenes, se le avisa por chat grupal (tecla U default). Si se niega, es demoteable.
 3. Debes trabajar siempre para que tu organización se vea beneficiada, no puedes ser un topo de la policía, etc.
@@ -185,7 +197,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 17. Sólo el jefe/líder puede poner una base e iniciar asaltos
 18. No puedes robar el micrófono del locutor
 
-### Asesino a sueldo
+Asesino a sueldo
+^^^^^^^^^^^^^^^^
 
 1. Precio máximo del hit: 5000 €. En caso de que el hit cueste más de 1000 €, se debe avisar antes de aceptarlo, y si el usuario pide que no se acepte, no debe ser aceptado.
 2. Sólo puedes matar en defensa propia (sólo si te disparan) o si te han contratado usando el menú del hitman (tecla E mirando hacia el hitman).
@@ -194,25 +207,29 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 5. No puedes aliarte con otros asesinos a sueldo para hacer un hit.
 6. No puedes pedir a alguien que te mande un hit contra una persona concreta.
 
-### Vendedor de armas
+Vendedor de armas
+^^^^^^^^^^^^^^^^^
 
 1. No te puedes aliar con nadie pero puedes tener una tienda común siempre y cuando no la hagas con otro jugador con el mismo job.
 2. Puedes contratar máximo un solo guardia de seguridad.
 
-### Vendedor del mercado negro
+Vendedor del mercado negro
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. No te puedes aliar con nadie pero puedes tener una tienda común siempre y cuando no la hagas con otro jugador con el mismo job.
 2. Ten en cuenta que todo lo que vendes, excepto la municion y el kit de primeros auxilios, es ilegal, te pueden detener por promocionar o vender dichos objetos.
 3. No puedes contratar un guardia de seguridad. (Tampoco puedes estar en una tienda con un guardia, aunque no sea tuyo)
 
-### Banquero
+Banquero
+^^^^^^^^
 
 1. No puedes afiliarte con las bandas ni tener ninguna relación con ellos.
 2. Las printers no pueden salir del banco.
 3. No puedes timar a los clientes: si les prometes una tarifa o algo debes cumplirlo.
 4. Sólo puedes realizar la labor de banquero en el banco que viene en el mapa.
 
-### Guardia de seguridad
+Guardia de seguridad
+^^^^^^^^^^^^^^^^^^^^
 
 1. Debes estar contratado con salario
 2. No puedes trabajar con las bandas
@@ -224,7 +241,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 8. No puedes trabajar para la policía pero si para el alcalde
 9. No abuses de la porra aturdidora
 
-### Ciudadano
+Ciudadano
+^^^^^^^^^
 
 * Estas normas se aplican a todos los jobs en general (salvo policía y grupos criminales) salvo que interfieran con otra norma
 
@@ -234,7 +252,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 4. No puedes retirar el hackeador de cajeros del banco.
 5. Subirse encima de alguien taseado para matarle es RDM.
 
-### Mendigo
+Mendigo
+^^^^^^^
 
 1. Pueden construir una casa improvisada en la calle (no hace falta que le pidan permiso al alcalde), pero debe de ser simple y sin botones/keypads.
 2. No pueden tener propiedades salvo que sea la casa de los mendigos.
@@ -244,7 +263,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 6. No pueden tener ni llevar armas.
 7. Deben rolear como mendigos, no pueden comprar nada (salvo comida barata y en pocas cantidades, con el dinero que les han donado)
 
-### Operario de grúa
+Operario de grúa
+^^^^^^^^^^^^^^^^
 
 1. No puedes requisar coches de la policía o ambulancias siempre y cuando estas no estén bloqueando la carretera. En cuyo caso, puedes moverla pero no multarla.
 2. Debes obedecer en todo momento a la policía
@@ -252,7 +272,8 @@ Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo 
 5. Debes hacer un recinto donde depositar los coches requisados antes de ponerte a trabajar
 6. No puedes aparcar mal
 
-### Todos los vendedores en general
+Todos los vendedores en general
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Deben de tener una tienda con su respectivo título antes de ponerse a trabajar, no puedes vender sin tienda. (Si eres vendedor ambulante también)
 2. Esta tienda debe de ser anunciada de vez en cuando con el comando /advert.
