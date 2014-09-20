@@ -11,7 +11,7 @@ Lo más importante que encontrarás aquí son las `normas del servidor`_. Léela
 Si tienes alguna duda que no se resuelva con esto, dirígete a nuestro `foro`_.
 
 .. _nuestro servidor de DarkRP: http://www.gametracker.com/server_info/fenix1.hermandadfenix.es:27085/
-.. _normas del servidor: normas
+.. _normas del servidor: :doc:`normas`
 .. _foro: http://hermandadfenix.es
 
 Esta wiki o documentación está dividida en varias secciones:
