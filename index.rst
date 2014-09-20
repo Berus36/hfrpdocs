@@ -15,13 +15,13 @@ Si tienes alguna duda que no se resuelva con esto, dirígete a nuestro `foro`_.
 
 Esta wiki o documentación está dividida en varias secciones:
 
-Guía para principiantes:
+Guías para principiantes:
 -------
 
 .. toctree::
    :maxdepth: 2
    
-   empezando
+   texturas
 
 
 Normas:
