@@ -42,5 +42,4 @@ Guías de jobs:
 
    jobs
    jobs/index
-   jobs/alcalde
    

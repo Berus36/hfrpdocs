@@ -7,11 +7,8 @@ Lista de jobs
 =======================
 Existen una serie de guías explicativas para algunos jobs con el objetivo de solucionarte todas las dudas que puedas tener sobre el job y además dejar claras las normas.
 
-Jobs con guía:
--------
 
 .. toctree::
-   :maxdepth: 1
    
    alcalde
    
