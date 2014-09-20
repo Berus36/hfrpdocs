@@ -47,7 +47,7 @@ Normas de rol generales
 14. El job personalizado no puede cambiar el rol que realizaba tu trabajo original demasiado, al igual que no puedes hacer de otro job siendo un job. Por ejemplo, si eres ladrón no puedes ponerte policía o viceversa.
 15. Antes de hacer un demote llama a un ayudante o a un administrador y habla con él sobre lo ocurruido. No demotees nunca si te han hecho un random demote
 16. No puedes impedir a un paramédico hacer su trabajo
-17. Cuando un paramédico te revive debes, sin influir con el rol, alejarte lo máximo posible del sitio donde has muerto y complir con el NLR
+17. Cuando un paramédico te revive debes, sin influir con el rol, alejarte lo máximo posible del sitio donde has muerto y cumplir con el NLR
 18. Para hackear el cajero hace falta que haya bastantes usuarios conectados además de policía activa. (No os pongáis a farmear por la noche ya que se revisarán los logs y se baneará)
 19. Esta prohibido tener la physgun de color negro
 20. Prohibido dejar o poner cosas en zonas inaccesibles (por ejemplo, con el uso de drogas o bugs)
