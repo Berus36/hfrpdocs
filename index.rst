@@ -40,5 +40,7 @@ Guías de jobs:
 .. toctree::
    :maxdepth: 2
 
+   jobs
    jobs/index
+   jobs/alcalde
    
