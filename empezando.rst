@@ -14,7 +14,7 @@ Nombre
 ^^^^^^
 Tu nombre de personaje puede o no ser el mismo que uses en Steam, aunque te recomendamos (y te pedimos por favor) que te pongas uno adecuado para el rol que vayas a realizar. Los nombres no podrán contener caracteres difíciles de escribir (por ejemplo $, [], (), ¿? y demás símbolos), tampoco podrán ser ofensivos ni demasiado largos. *Juan Martínez* (Nombre Apellido) es un buen nombre de rol, ya que es fácil de recordar, y encima es como un nombre en la vida real. *$XxXxTEHWiLlYrExXxX$2001* no es un buen nombe. Tampoco es un buen nombre Grúa, Puerta, etc.
 
-Para cambiarte el nombre usa el comando de chat 
+Para cambiarte el nombre usa el comando de chat ::
 
 	/rpname nombre
 
@@ -22,7 +22,7 @@ Trabajo
 ^^^^^^^
 Tu trabajo es un indicador de lo que haces. Puedes seleccionar el trabajo que desees realizar pulsando *F4* y a continuación el trabajo que quieras.
 
-Además, si quieres editar la información que aparece a los demás encima de tu cabeza para por ejemplo ponerles más fácil entender que eres un panadero en vez de un chef o un entrevistador en lugar de locutor de radio, puedes usar el siguiente comando:
+Además, si quieres editar la información que aparece a los demás encima de tu cabeza para por ejemplo ponerles más fácil entender que eres un panadero en vez de un chef o un entrevistador en lugar de locutor de radio, puedes usar el siguiente comando: ::
 
     /job trabajo
 
