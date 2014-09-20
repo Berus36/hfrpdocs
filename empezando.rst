@@ -37,7 +37,7 @@ NLR
 ^^^
 Existe una norma que dice que al morir, inicias una vida nueva. Esta es una de las normas más importantes y con mayor influencia sin ninguna duda. 
 
-NLR, del inglés *New Life Rule*, es una norma que más o menos dice que cuando mueres, tu personaje, al volver a aparecer te *olvidarás* de todo lo ocurrido en tu *anterior* vida. Esto incluye cosas como quién te ha matado, dónde había printers o quién te ha robado en tu tienda. Si mueres como policía, al respawnear serás un nuevo policía, y así con los demás trabajos.
+NLR, del inglés *New Life Rule*, es una norma que más o menos dice que cuando mueres, y aunque te reviva un paramédico, tu personaje, al volver a aparecer te *olvidarás* de todo lo ocurrido en tu *anterior* vida. Esto incluye cosas como quién te ha matado, dónde había printers o quién te ha robado en tu tienda. Si mueres como policía, al respawnear serás un nuevo policía, y así con los demás trabajos.
 
 Además de todo esto, al morir no podrás volver a la zona de tu muerte durante 5 minutos como mínimo, tampoco podrás respawnear tu coche durante ese tiempo.
 
@@ -74,5 +74,24 @@ Esto significa que no puedes usar información OOC para tu personaje, IC. A cont
 
 * No puedes hablar como tu personaje por el chat OOC pidiendo un arma, una pizza y demás
 * No puedes poner un /advert 
+* No puedes pedir un chef por OOC
+* No puedes avisar de un robo por ooc, ni decir que no pagarás el rescate
+
+Ejemplos de buena diferenciación de IC/OOC:
+
+* Preguntar dudas por OOC
+* Anunciar nueva tienda por /advert
+* Dar órdenes como líder por chat de grupo
+* Hablar de temas fuera de rol por OOC
+
+*Puedes hablar por el chat global OOC precediendo tu mensaje con // *
+
+Metagaming
+^^^^^^^^^^
+Si usas el chat OOC para decir cosas IC se considera Metagaming, al igual que tratar diferente a alguien porque leas que es por ejemplo *Asesino a sueldo*. Tampoco puedes servirte del feed de muertes para saber que han matado a alguien, y tampoco puedes usarlo para saber quién.
+
+
+
+
 
 
