@@ -23,4 +23,4 @@ Curar
 
 Además del Desfibrilador, tienes un aparato capaz de curar todas las heridas de la gente. El llamado *Medic kit* curará a todo el que apuntes y dispares de cerca.
 
-No puedes cobrar por curar, pero te pueden dar propinas.
+No puedes cobrar por curar, pero te pueden dar propinas. No cures en combate.
