@@ -23,7 +23,7 @@ Descargar contenido sin tener los juegos
 
 El procedimiento es el mismo para los dos juegos, en el ejemplo usaremos Counter-Strike: Source.
 
-**1. Accedemos a la siguiente página: `http://kajar9.wix.com/cscheater2/#!downloads/chgd`_**
+**1. Accedemos a la siguiente página: `http://kajar9.wix.com/cscheater2/#!downloads/chgd <http://kajar9.wix.com/cscheater2/#!downloads/chgd>`_**
 
 **2. Buscamos donde pone el nombre del juego** (en este caso Counter-Strike: Source) y pulsamos en el botón que pone *Game Content* junto a un servidor de descarga. *(recomendamos MEGA)*
 
@@ -43,3 +43,32 @@ Asegúrate de que cuando entres a la carpeta no haya otra con el mismo nombre de
 Addons necesarios
 -----------------
 
+Aparte de los juegos, necesitas una serie de texturas extras para ver algunas cosas como las armas, los coches y demás.
+
+**1. Accede a `esta colección<http://steamcommunity.com/sharedfiles/filedetails/?id=280193103>`_** e inicia sesión en Steam.
+
+**2. Haz clic en donde pone *Suscribirse a todos*.**
+
+.. image:: img/suscribirse.png
+
+**3. Abre GMod y espera a que las descargas finalicen.**
+
+.. note:: Cuando añadamos cosas al servidor, deberás volver a pulsar el botón para descargar el nuevo contenido.
+
+Este paso es importante ya que reducirá mucho el tiempo de acceso al servidor, ya que el servidor no tendrá que descargarte cada vez los addons.
+
+Activar descargas
+-----------------
+
+Hay una serie de cosas que no están disponible sen la workshop y que descargarás directamente de nuestros servidores. 
+Para ello, debes activar la opción que le permita al servidor hacerlo.
+
+**1. Abre el juego.**
+
+**2. Abre las opciones.**
+
+**3. Selecciona la pestaña multijugador.**
+
+**4. Activa las descargas** seleccionando la primera opción del desplegable de más abajo.
+
+.. image:: img/ajustesdescargas.png
