@@ -18,6 +18,7 @@ Aparte de `Garry's Mod <http://store.steampowered.com/app/4000>`_, debes tener l
 * `Half-Life 2 <http://store.steampowered.com/app/220/>`_
 
 Una vez instalados, monta el contenido en GMod pulsando en el icono que parece un mando de consola y seleccionando ambos juegos.
+
 .. image:: img/gamemount.png
 
 **Si no tienes uno o los dos juegos, sigue leyendo esta subsección.** En caso de que tengas los dos juegos, pasa a la parte addons necesarios.
