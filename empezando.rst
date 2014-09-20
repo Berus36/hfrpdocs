@@ -107,6 +107,7 @@ Teclas
 * Pulsa "**U**" para hablar por chat de grupo
 * Pulsa "**F1**" para abrir la página de ayuda y la lista de comandos
 * Pulsa "**F2**" para abrir el menú de las puertas (comprar y venderlas)
+* Pulsa "**F3**" para *liberar* el ratón y así poder hacer clic en votaciones y demás
 * Pulsa "**F4**" para abrir el panel de jobs y de compra de objetos
 
 Comandos
