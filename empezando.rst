@@ -133,6 +133,8 @@ Para realizar algunas acciones en el servidor es necesario usar comandos. A cont
 * ``/unownalldoors``  Vende todas tus puertas y vehículos
 * ``/afk``  Cambia entre modo AFK y no AFK. Aviso: No debe usarse para desbuguearse o para cualquier otro fin que no sea marcar que estamos ausentes por un rato largo. 
 
+Contactar con un administrador
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+¿Esta guía no responde tu pregunta? ¿Tienes una duda que no quieres preguntar en público? ¿Alguien se está saltando las normas? ¿Otro problema?
 
-
-
+Puedes contactar con la administración si pones un "**@**" delante de tus mensajes. Por ejemplo: *@ admin, un vendedor de armas no tiene tienda y está vendiendo*
