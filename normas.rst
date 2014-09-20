@@ -3,7 +3,8 @@ Normas
 
 Estas son las normas de nuestro servidor de DarkRP. Hemos intentado hacerlas lo más claras posibles y sencillas de cumplir. Sabemos que es imposible cubrir todo, por lo que si te encuentras con un vacío en las normas te pedimos que nos lo comuniques y que preguntes a un admin en el juego antes de actuar.
 
-## Normas de convivencia
+Normas de convivencia
+---------------------
 
 1. No faltes al respeto a ningún jugador fuera de rol. (No te pases cuando rolees)
 2. Habla en español en todo momento
@@ -62,22 +63,22 @@ Normas de rol generales
 Normas de props
 ---------------
 
-1. No mates con props a otros ni a ti mismo en ninguna situación.
-2. No empujes con props nada. Esto incluye jugadores y otros props.
-3. No hagas propsurf: no uses props para propulsarte a ti o a otros jugadores.
-4. No hagas propblock: siempre debe de haber una manera de entrar a un área/objeto utilizando botones y/o keypads. (Más sobre esto en la sección de bases)
-5. Las construcciones no pueden matar a jugadores ni dejarlos encerrados.
-6. No hagas propclimb: no uses props para llegar a otras zonas/edificios/lugares más altos o bajos.
-7. No realices construcciones que puedan resultar ofensivas a otros usuarios.
-8. No construyas en un lugar público (como puede ser un descampado o similar) sin consentimiento de los administradores.
-9. En la zona pública de la ciudad sólo se puede construir con el consentimiento del alcalde y con razón de RP.
-10. Salvo que se te haya dado permiso, solamente puedes construir en tu propiedad.
-12. No construyas barricadas durante un tiroteo. (y si es antes, sigue las normas de bases)
-13. No pongas lámparas en la calle. Las lámparas en el interior deben de tener un brillo adecuado. De no ser así, serán eliminadas sin aviso previo.
-14. No pongas ragdolls en la calle. Los ragdolls deben de ser utilizados con un motivo. No los utilices para posar o para hacer el tonto.
-15. No pongas TextScreens en fachadas ajenas, propiedades ajenas o en el suelo de la calle.
-16. Controla a quién le das permiso para mover tus props: tus props son tus props. Tú serás sancionado si la otra persona no es encontrada.
-17. Si el alcalde dice que debes retirar una construcción en la calle debes hacerlo inmediatamente
+#. No mates con props a otros ni a ti mismo en ninguna situación.
+#. No empujes con props nada. Esto incluye jugadores y otros props.
+#. No hagas propsurf: no uses props para propulsarte a ti o a otros jugadores.
+#. No hagas propblock: siempre debe de haber una manera de entrar a un área/objeto utilizando botones y/o keypads. (Más sobre esto en la sección de bases)
+#. Las construcciones no pueden matar a jugadores ni dejarlos encerrados.
+#. No hagas propclimb: no uses props para llegar a otras zonas/edificios/lugares más altos o bajos.
+#. No realices construcciones que puedan resultar ofensivas a otros usuarios.
+#. No construyas en un lugar público (como puede ser un descampado o similar) sin consentimiento de los administradores.
+#. En la zona pública de la ciudad sólo se puede construir con el consentimiento del alcalde y con razón de RP.
+#. Salvo que se te haya dado permiso, solamente puedes construir en tu propiedad.
+#. No construyas barricadas durante un tiroteo. (y si es antes, sigue las normas de bases)
+#. No pongas lámparas en la calle. Las lámparas en el interior deben de tener un brillo adecuado. De no ser así, serán eliminadas sin aviso previo.
+#. No pongas ragdolls en la calle. Los ragdolls deben de ser utilizados con un motivo. No los utilices para posar o para hacer el tonto.
+#. No pongas TextScreens en fachadas ajenas, propiedades ajenas o en el suelo de la calle.
+#. Controla a quién le das permiso para mover tus props: tus props son tus props. Tú serás sancionado si la otra persona no es encontrada.
+#. Si el alcalde dice que debes retirar una construcción en la calle debes hacerlo inmediatamente.
 
 Normas de bases
 ---------------
