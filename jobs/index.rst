@@ -12,6 +12,7 @@ Existen una serie de guías explicativas para algunos jobs con el objetivo de so
    :maxdepth: 2
    
    alcalde
+   paramedico
    
 
 
