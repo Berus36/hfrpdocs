@@ -180,23 +180,23 @@ Paramédico
 Mafiosos/Banda
 ^^^^^^^^^^^^^^
 
-1. Se deben obedecer las órdenes del líder. Si este no manda órdenes, se le avisa por chat grupal (tecla U default). Si se niega, es demoteable.
-3. Debes trabajar siempre para que tu organización se vea beneficiada, no puedes ser un topo de la policía, etc.
-4. No le declares la guerra a la policía ni a la otra banda
-5. La mafia no está por encima de las normas. Se le aplica tanto el RDM como el CDM.
-6. Conducid bien a no ser que estéis huyendo.
-7. Solo pueden matar a alguien si se niega a cumplir una orden por amenaza directa o es considerado una amenaza. (La policía sólo es una amenaza si te está persiguiendo para ponerte wanted, te ha puesto wanted y te está persiguiendo o si te han puesto warrant y te están entrando)
-8. No puedes amenazar a los paramédicos para no revivir a ciertas personas.
-9. Las bandas son los únicos jobs que pueden asaltar el nexus, (por órden del lider) y siempre avisando con un advert al iniciar y terminar el ataque. Si un asaltante o policía mueren durante el asalto, no podrán volver hasta terminado dicho asalto.
-10. Hay que esperar 15 minutos entre asalto y asalto (banco y nexus)
-11. Los mafiosos no podrán extorsionar a organismo públicos como los paramédicos.
-12. Una banda puede atacar a la otra banda esté usando el Crackeador de Cajeros bajo el motivo de obtener el botin y no de quitar el cracker. Los unicos que pueden quitar el cracker son las fuerzas de la ley.
-13. Las bandas no podrán aliarse.
-14. Si robas un coche, debes notificar al que has robado que tienes tú su coche, y debes de ofrecerle un método de devolución. (A la hora de notificarle, hazlo por un método demostrable luego. SMS, por ejemplo)
-15. No puedes mandar a la gente a respawnear su coche: debes devolverlo o indicar su ubicación.
-16. No puedes robar coches de jobs (ambulancias, coches de policía, camion bomberos, taxi, grúa, triciclo)
-17. Sólo el jefe/líder puede poner una base e iniciar asaltos
-18. No puedes robar el micrófono del locutor
+#. Se deben obedecer las órdenes del líder. Si este no manda órdenes, se le avisa por chat grupal (tecla U default). Si se niega, es demoteable.
+#. Debes trabajar siempre para que tu organización se vea beneficiada, no puedes ser un topo de la policía, etc.
+#. No le declares la guerra a la policía ni a la otra banda
+#. La mafia no está por encima de las normas. Se le aplica tanto el RDM como el CDM.
+#. Conducid bien a no ser que estéis huyendo.
+#. Solo pueden matar a alguien si se niega a cumplir una orden por amenaza directa o es considerado una amenaza. (La policía sólo es una amenaza si te está persiguiendo para ponerte wanted, te ha puesto wanted y te está persiguiendo o si te han puesto warrant y te están entrando)
+#. No puedes amenazar a los paramédicos para no revivir a ciertas personas.
+#. Las bandas son los únicos jobs que pueden asaltar el nexus, (por órden del lider) y siempre avisando con un advert al iniciar y terminar el ataque. Si un asaltante o policía mueren durante el asalto, no podrán volver hasta terminado dicho asalto.
+#. Hay que esperar 15 minutos entre asalto y asalto (banco y nexus)
+#. Los mafiosos no podrán extorsionar a organismo públicos como los paramédicos.
+#. Una banda puede atacar a la otra banda esté usando el Crackeador de Cajeros bajo el motivo de obtener el botin y no de quitar el cracker. Los unicos que pueden quitar el cracker son las fuerzas de la ley.
+#. Las bandas no podrán aliarse.
+#. Si robas un coche, debes notificar al que has robado que tienes tú su coche, y debes de ofrecerle un método de devolución. (A la hora de notificarle, hazlo por un método demostrable luego. SMS, por ejemplo)
+#. No puedes mandar a la gente a respawnear su coche: debes devolverlo o indicar su ubicación.
+#. No puedes robar coches de jobs (ambulancias, coches de policía, camion bomberos, taxi, grúa, triciclo)
+#. Sólo el jefe/líder puede poner una base e iniciar asaltos
+#. No puedes robar el micrófono del locutor
 
 Asesino a sueldo
 ^^^^^^^^^^^^^^^^
