@@ -43,15 +43,13 @@ Además de todo esto, al morir no podrás volver a la zona de tu muerte durante 
 
 .. image:: img/nlrzona.jpg
 
-
 RDM
 ^^^
-Hay algo que es también importante y que es inprescindible saber acerca de él: el RDM. RDM viene del inglés y significa *Random DeathMatch). 
+Hay algo que es también importante y que es inprescindible saber acerca de él: el RDM. RDM viene del inglés y significa *Random DeathMatch*. 
 
 Traducido, pódría significar pelea sin razón o al azar, y no está permitido. Vamos, que no puedes hacer daño a otros jugadores porque sí o sin razón. 
 Necesitas una razón de mucho peso para hacer daño a los demás, como en la vida real. No puedes disparar a alguien por no hacerte caso en tu tienda: deberás llamar a la policía o contratar a un guardia de seguridad. Como policía no puedes por ejemplo disparar a alguien que se ha saltado un semáforo: le pones una multa o en casos extremos le arrestas.
 Si dudas antes de hacer daño a los demás, piensa en si les harías daño en la vida real por lo que han hecho, y la respuesta será generalmente no.
-
 
 FailRP
 ^^^^^^
@@ -60,5 +58,21 @@ FailRP puede significar en inglés *Fail to Roleplay*, que traducido sería fall
 Esto significa que lo que has hecho no está permitido por las normas de rol, que simplemente no está roleando, o es demasiado poco realista haciéndolo. 
 Por ejemplo, como chef asaltar el ayuntamiento, o como policía matar al alcalde. 
 
+Existen diferentes grados de FailRP, algunos hacen que los demás jugadores roleen peor o lo pasen peor: por ejemplo ponerse a molestar gritando por micrófono o ponerse a saltar por ahí mientras corres con pa physics gun y algunos que harán que acabes baneado. Intenta siempre hacer las cosas como las harás en la vida real siguiendo las normas.
+
+Carkill
+^^^^^^^
+Los coches son muy importantes en el servidor. Hay muchos coches disponibles para comprar, cada uno con su potencia y velocidad.
+
+Carkill significa en español matar con el coche, y en general no deberías poder matar a otras personas intencionadamente con el coche. Si eres un viandante, debes ir por la acera y no por la carretera para evitar problemas. Si eres un conductor, nunca atropelles a alguien en la acera ya que está prohibido por norma. Cuando atropelles a alguien, que no te extrañe si te arrestan, ya que debes conducir con cuidado. Otra cosa es que los peatones salten a la vía, que sería FailRP, pero tú siempre frena cuando veas a alguien. En resumen: no te pases con la velocidad del coche para evitar problemas, frena si hay alguien en la carretera y conduce bien en general para evitar problemas.
+
+IC y OOC
+^^^^^^^^
+Otra cosa importante es saber diferenciar entre **IC** (Dentro de tu personaje) y **OOC** (Fuera de tu personaje). 
+
+Esto significa que no puedes usar información OOC para tu personaje, IC. A continuación te dejamos unos ejemplos de lo que no se puede hacer:
+
+* No puedes hablar como tu personaje por el chat OOC pidiendo un arma, una pizza y demás
+* No puedes poner un /advert 
 
 
