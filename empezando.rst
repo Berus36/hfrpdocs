@@ -84,7 +84,7 @@ Ejemplos de buena diferenciación de IC/OOC:
 * Dar órdenes como líder por chat de grupo
 * Hablar de temas fuera de rol por OOC
 
-*Puedes hablar por el chat global OOC precediendo tu mensaje con // *
+*Puedes hablar por el chat global OOC precediendo tu mensaje con dos barras (//)*
 
 Metagaming
 ^^^^^^^^^^
