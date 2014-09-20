@@ -267,11 +267,11 @@ Mendigo
 Operario de grúa
 ^^^^^^^^^^^^^^^^
 
-1. No puedes requisar coches de la policía o ambulancias siempre y cuando estas no estén bloqueando la carretera. En cuyo caso, puedes moverla pero no multarla.
-2. Debes obedecer en todo momento a la policía
-3. Trabajas conforme a las órdenes del alcalde o sargentos, si te dicen que no te lleves coches, no lo hagas.
-5. Debes hacer un recinto donde depositar los coches requisados antes de ponerte a trabajar
-6. No puedes aparcar mal
+#. No puedes requisar coches de la policía o ambulancias siempre y cuando estas no estén bloqueando la carretera. En cuyo caso, puedes moverla pero no multarla.
+#. Debes obedecer en todo momento a la policía
+#. Trabajas conforme a las órdenes del alcalde o sargentos, si te dicen que no te lleves coches, no lo hagas.
+#. Debes hacer un recinto donde depositar los coches requisados antes de ponerte a trabajar
+#. No puedes aparcar mal
 
 Todos los vendedores en general
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
