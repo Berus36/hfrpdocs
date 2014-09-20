@@ -48,7 +48,7 @@ RDM
 ^^^
 Hay algo que es también importante y que es inprescindible saber acerca de él: el RDM. RDM viene del inglés y significa *Random DeathMatch). 
 
-Traducido, pódría significar pelea sin razón o al azar, y no está petmitido. Vamos, que no puedes hacer daño a otros jugadores porque sí o sin razón. 
+Traducido, pódría significar pelea sin razón o al azar, y no está permitido. Vamos, que no puedes hacer daño a otros jugadores porque sí o sin razón. 
 Necesitas una razón de mucho peso para hacer daño a los demás, como en la vida real. No puedes disparar a alguien por no hacerte caso en tu tienda: deberás llamar a la policía o contratar a un guardia de seguridad. Como policía no puedes por ejemplo disparar a alguien que se ha saltado un semáforo: le pones una multa o en casos extremos le arrestas.
 Si dudas antes de hacer daño a los demás, piensa en si les harías daño en la vida real por lo que han hecho, y la respuesta será generalmente no.
 
