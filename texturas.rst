@@ -1,6 +1,6 @@
 
-Texturas necesarias
-========================
+Texturas
+========
 
 Esta página te ayudará a entrar al servidor con las texturas necesarias.
 
@@ -55,7 +55,7 @@ Aparte de los juegos, necesitas una serie de texturas extras para ver algunas co
 
 .. note:: Cuando añadamos cosas al servidor, deberás volver a pulsar el botón para descargar el nuevo contenido.
 
-Este paso es importante ya que reducirá mucho el tiempo de acceso al servidor, ya que el servidor no tendrá que descargarte cada vez los addons.
+Este paso es importante porque que reducirá mucho el tiempo de acceso al servidor, ya que el servidor no tendrá que descargarte cada vez los addons.
 
 Activar descargas
 -----------------
@@ -69,6 +69,6 @@ Para ello, debes activar la opción que le permita al servidor hacerlo.
 
 **3. Selecciona la pestaña multijugador.**
 
-**4. Activa las descargas** seleccionando la primera opción del desplegable de más abajo.
+**4. Activa las descargas** seleccionando la primera opción que diga *Activar todas los archivos del servidor* o algo parecido.
 
 .. image:: img/ajustesdescargas.png

@@ -22,6 +22,7 @@ Guías para principiantes:
    :maxdepth: 2
    
    texturas
+   empezando
 
 
 Normas:
