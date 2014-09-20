@@ -3,21 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Inicio
-=====================================
+Bienvenido a la documentación del servidor de DarkRP
+====================================================
 
-Esta es la documentación del servidor 
+Esta es la documentación de `nuestro servidor de DarkRP`_. En ella podrás encontrar información útil a la hora de jugar en el servidor.
+Lo más importante que encontrarás aquí son las `normas del servidor`_. Léelas para evitar problemas y jugar como debe ser.
 
-Contenido:
+Esta wiki o documentación está dividida en varias secciones:
+
+Normas:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    normas
 
-::Indices and tables
-::==================
-
-::* :ref:`genindex`
-::* :ref:`modindex`
-::* :ref:`search`
