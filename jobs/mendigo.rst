@@ -13,6 +13,6 @@ Casa en la calle
 ----------------
 Como mendigo, puedes hacerte una *casa* en la calle. La casa debe ser sencilla, típica de un mendigo (una chapuza con todo lo que hay en los contenedores), sin botones ni keypads ni otros mecanismos, y no debe bloquear la carretera ni acceso a propiedades o demás. 
 
-.. image:: ../img/mendigo.jpg
-
 Si el alcalde te dice que quites tu casa, quítala inmediatamente. 
+
+.. image:: ../img/mendigo.jpg
