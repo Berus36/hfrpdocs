@@ -9,6 +9,7 @@ Existen una serie de guías explicativas para algunos jobs con el objetivo de so
 
 
 .. toctree::
+   :maxdepth: 2
    
    alcalde
    
