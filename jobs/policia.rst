@@ -126,11 +126,19 @@ Una vez confirmado que hay printers dentro debes pedir refuerzos ya que puede ha
 
 .. image:: ../img/printerbar.png
 
-
 Una vez encuentres las printers, verás que normalmente están protegidas por una especie de caja. Busca el prop que se abre con el Battering Bam y ábrelo. Pon en busca y captura a la persona que pone que es el dueño de la printer (ej. Tenencia ilícita de printers ilegales). Luego sácala y rómpela con el Stun stick.
 
-Puedes también detener a los que estaban en la propiedad si consideras que sabían que tenían printers dentro y no han dado aviso a la policía. (ej. Complicidad en la tenencia de printers ilícitas
+Puedes también detener a los que estaban en la propiedad si consideras que sabían que tenían printers dentro y no han dado aviso a la policía. (ej. Complicidad en la tenencia de printers ilícitas)
 
 Asalto al nexus
 ^^^^^^^^^^^^^^^
-De repente aparece una noticia en el periódico: ¡están asaltando el ayuntamiento!
+De repente aparece una noticia en el periódico: ¡están asaltando el ayuntamiento! Ya sea porque no están de acuerdo con la gestión del alcalde o por las tasas altas, una banda armada muy peligrosa ha decidido asaltar el nexus. 
+
+Lo primero que debes hacer es conseguir que el alcalde declare un toque de queda. Acto seguido, comunícate por radio con el grupo. Lo más importante es no ir directamente al ayuntamiento.
+Lo más seguro es que haya gente por fuera, esperando para disparar policías en cuanto los vea. En su lugar, estableced un puesto de mando en algún lugar seguro. Por ejemplo, puedes mandar un agente a ver la situación por si hubiera asaltantes todavía esperando para disparar a la policía. Luego, acercaos todos a la vez en coche al ayuntamiento, de esa manera evitaréis ser disparados mientras llegáis. Salid del coche (no todos a la vez u os buguearéis y os quedaréis indefensos), desenfundad, recargad y coged munición. Luego, entrad al ayuntamiento dejando a un par de agentes fuera, para controlar que ningún ciudadano pase.
+
+Entonces, id subiendo poco a poco en el nexus, limpiando las plantas una a una. El nexus tiene, sin contar el garaje, cuatro plantas en total. Cuando lleguéis arriba, si el SWAT no ha podido encargarse de los asaltantes, tendréis que disparar a todo aquel que tenga un arma desenfundada. Pero cuidado: pueden tener al alcalde secuestrado. En ese caso, sigue la guía de secuestros.
+
+Si todo ha ido bien, baja poco a poco limpiando otra vez los pisos despacio. Luego, al bajar abajo, asegúrate de que los asaltantes no han huído. Si lo han hecho, sígueles. 
+
+Luego, pide al alcalde que quite el locdown una vez se publique en el periódico. (Los asaltantes pondrán un advert diciendo *Asalto finalizado*)
