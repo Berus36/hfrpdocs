@@ -31,6 +31,8 @@ Luego, llama al ascensor y baja al piso que da a la calle. Busca las leyes si ha
 
 Acto seguido, ve a por tu coche a la gasolinera y apárcalo en el garaje o en alguna plaza de aparcamiento. (Por favor, no lo dejes por ahí mal aparcado o en doble fila)
 
+Recomendamos patrullar siempre en parejas como mínimo ya que es más seguro y permite a un agente comunicar lo ocurrido mientras por ejemplo se persigue en coche a un infractor.
+
 Conceptos básicos
 -----------------
 Wanted o En busca y captura
@@ -95,3 +97,23 @@ Comandos
 
 *Para nombres con un espacio de por medio, pon sólo una parte o saldrá el nombre en la razón*
 
+Procedimientos
+--------------
+En esta sección intentamos enseñar la manera correcta de actuar en situaciones que pueden ocurrirte como policía.
+
+Arrestar a alguien
+^^^^^^^^^^^^^^^^^^
+LLegará el momento en el que quieras arrestar a alguien. Cuando eso pase, ten en cuenta lo siguiente:
+
+* ¿Tiene arma desenfundada? En caso afirmativo, deberás usar fuerza letal para neutralizarle si no obedece ya que no puedes esposarle ni tasearle.
+* Si no tiene arma desenfundada, ordena al ciudadano ponerse cara a la pared más próxima, o en caso de no haber, ordénale girarse de espaldas a tu cara.
+
+Una vez esposado , habla con él para dale oportunidad de explicarse y de evitar una detención innecesaria ya que a lo mejor lo que ha hecho no es tan grave y se le puede dejar en una multa o igual lo que ha hecho ya no es ilegal.
+
+Si no obedece, tasea avisando con algo como por ejemplo: *le voy a tener que tasear ya que está resistiéndose, señor/a*. Si continúa sin obedecer, le intentas poner las esposas, el wanted y le arrestas.
+
+Si se muestra colaborativo y quieres detenerle, procede a leerle sus derechos, como por ejemplo: *tiene derecho a guardar silencio, tiene derecho a un abogado, si no tiene dinero se le asignará uno de oficio* o lo que se te ocurra en el momento. Dicho esto ponle un wanted serio, con buena ortografía y bien escrito (ej. Allanamiento de propiedad ajena, Robo de vehículo, Intento de homicidio...), saca el *Arrest baton* y haz clic izquierdo sobre el detenido.
+
+Warrant por printers
+^^^^^^^^^^^^^^^^^^^^
+Llegará un momento en el que empezarás a sospechar de que se guardan printers ilegales en alguna propiedad de Evocity: es entonces
