@@ -23,7 +23,7 @@ Descargar contenido sin tener los juegos
 
 El procedimiento es el mismo para los dos juegos, en el ejemplo usaremos Counter-Strike: Source.
 
-**1. Accedemos a la siguiente página: `enlace a la página <http://kajar9.wix.com/cscheater2/#!downloads/chgd>`_**
+**1. Accedemos a la siguiente página: `enlace a la página`_**
 
 **2. Buscamos donde pone el nombre del juego** (en este caso Counter-Strike: Source) y pulsamos en el botón que pone *Game Content* junto a un servidor de descarga. *(recomendamos MEGA)*
 
@@ -41,12 +41,15 @@ Asegúrate de que cuando entres a la carpeta no haya otra con el mismo nombre de
 
 **5. Repetir el proceso** con el otro juego, si no lo tenemos instalado.
 
+.. _enlace a la página: http://kajar9.wix.com/cscheater2/#!downloads/chgd
+
+
 Addons necesarios
 -----------------
 
 Aparte de los juegos, necesitas una serie de texturas extras para ver algunas cosas como las armas, los coches y demás.
 
-**1. Accede a `esta colección<http://steamcommunity.com/sharedfiles/filedetails/?id=280193103>`_** e inicia sesión en Steam.
+**1. Accede a `esta colección`_** e inicia sesión en Steam.
 
 **2. Haz clic en donde pone *Suscribirse a todos*.**
 
@@ -57,6 +60,8 @@ Aparte de los juegos, necesitas una serie de texturas extras para ver algunas co
 .. note:: Cuando añadamos cosas al servidor, deberás volver a pulsar el botón para descargar el nuevo contenido.
 
 Este paso es importante porque que reducirá mucho el tiempo de acceso al servidor, ya que el servidor no tendrá que descargarte cada vez los addons.
+
+.. _esta colección: http://steamcommunity.com/sharedfiles/filedetails/?id=280193103
 
 Activar descargas
 -----------------
