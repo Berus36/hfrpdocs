@@ -146,3 +146,5 @@ Al terminar, pide al alcalde que quite el lockdown una vez se publique que ha te
 *A veces, el asalto  no es para secuestrar al alcalde sino para abrir las celdas para sacar a alguien. Comprueba siempre si las celdas están abiertas al finalizar un asalto.*
 
 Ten en cuenta que cuando te matan mientras se está cometiendo un asalto, no puedes volver a participar en él. Cuando eso ocurra, debes salir con la physics gun en mano lo más rápido posible, sin molestar a la policía ni los asaltantes. Recuerda también que los muertos no hablan.
+
+.. note:: Iremos añadiendo más contenido. Comprueba cada cierto tiempo esta página para más consejos y ayuda a la hora de ser policía.
