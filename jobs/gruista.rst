@@ -29,7 +29,7 @@ Poner multas
 ------------
 Como gruista, puedes poner multas a los coches que te hayas llevado o hayas arreglado, siempre avisando por advert.
 
-Para ponerlas, basta con que hagas clic derecho sobre el coche una vez estés en el depósito. Pon la cantidad (máximo 500) y pulsa el botón.
+Para ponerlas, basta con que hagas clic derecho sobre el coche con la herramienta *Tower Equipment* una vez estés en el depósito. Pon la cantidad (máximo 500) y pulsa el botón.
 
 .. image:: ../img/multa.png
 
