@@ -11,7 +11,7 @@ Para sacar la grúa, habla con un NPC cerca de tu spawn con un bocadillo sobre s
 
 Requisar coches
 ---------------
-Cuando veas un coche mal aparcado dentro del túnel de la ciudad (si es fuera del centro, mientras no esté en medio de la carretera tampoco importa demasiado), puedes llevártelo a tu depósito de vehículos (no puedes ponerle multa y marcharte, dejándolo mal aparcado).
+Cuando veas un coche mal aparcado dentro del centro de la ciudad (si es fuera del centro, mientras no esté en medio de la carretera tampoco importa demasiado), puedes llevártelo a tu depósito de vehículos (no puedes ponerle multa y marcharte, dejándolo mal aparcado).
 
 Para enganchar un coche a la parte de atrás de tu grúa, debes poner la parte trasera de tu grúa pegada al morro del vehículo que quieras requisar. Entonces, sin bajarte siquiera, puedes hacer clic derecho y si todo está bien se enganchará a la grúa.
 
@@ -29,7 +29,7 @@ Poner multas
 ------------
 Como gruista, puedes poner multas a los coches que te hayas llevado o hayas arreglado, siempre avisando por advert.
 
-Para ponerlas, basta con que hagas clic derecho sobre el coche una vez estés en el depósito. Pon la cantidad (máximo 500) y pulsa el botón.
+Para ponerlas, basta con que hagas clic derecho sobre el coche con la herramienta *Tower Equipment* una vez estés en el depósito. Pon la cantidad (máximo 500) y pulsa el botón.
 
 .. image:: ../img/multa.png
 
