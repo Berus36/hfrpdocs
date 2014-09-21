@@ -47,6 +47,8 @@ Warrant u Orden de registro
 Un warrant (orden de registro en inglés) es el permiso que da derecho a la policía a hacer una búsqueda en el local o propiedad de un ciudadano. Si hay alcalde, debe ser aprobado por él.
 Ejemplos de razones son: Fugitivo en la propiedad, Manejo de printers ilegales dentro, Disparos en el interior, etc.
 
+Sólo puedes poner warrants por motivos por los que estés muy seguros: por ejemplo, en caso de printers no podrás entrar a menos que las hayas visto, visto explotar u oído y estés seguro de que es en esa propiedad. Para entrar a una propiedad, necesitas una orden de registro, pero hay excepciones, como cuando entras a la parte pública te una tienda que esté abierta o cuando te llaman a un cr y la puerta está abierta (ej. me roban en mi casa en los apartamentos).
+
 Sólo puedes usar el Battering Bam o, en caso de que sea estrictamente necesario, el keypad cracker para acceder a una propiedad.
 
 Lockdown
@@ -116,4 +118,19 @@ Si se muestra colaborativo y quieres detenerle, procede a leerle sus derechos, c
 
 Warrant por printers
 ^^^^^^^^^^^^^^^^^^^^
-Llegará un momento en el que empezarás a sospechar de que se guardan printers ilegales en alguna propiedad de Evocity: es entonces
+Las printers son muy populares entre los ciudadanos, la cosa es que fuera del banco son ilegales. Cuando estés patrullando oirás explosiones: esas explosiones son de printers. Las printers son aparatos que imprimen dinero, por lo tanto hacen un ruido muy característico. Se escucha a veces incluso a través de paredes. Las printers que estén fuera del banco son consideradas ilegales. La cosa es que muchas personas prefieren guardar las printers por ahí en lugar de en el banco (de hecho, el banco acaba siendo exclusivamente para el gobienro ya que nadie más mete) ya que este puede cobrarles por dejarlas, o simplemente quieren tenerlas en su base. 
+
+Imagínate que pasas por el bar de carretera cuando de repente se escucha una explosión. Puesto que no hay edificios cercanos, es seguro suponer que la explosión ha venido de dentro. En caso de que sea en la ciudad u otra parte y que no estés seguro de dónde, puedes intentar pegar la oreja para ver si escuchas algo. Salvo que veas la printer o escuches claramente que hay printers dentro, no puedes entrar a otra propiedad. No puedes ir por ahí registrando propiedades a ver si hay suerte.
+
+Una vez confirmado que hay printers dentro debes pedir refuerzos ya que puede haber gente armada dentro. Para ello, debes alejarte primero de donde hay printers para que el dueño no sospeche y a continuación debes pedir refuerzos por grupo (ej. A todas las unidades printers escuchadas en el bar de carretera, solicito refuerzos inmediatamente y apoyo del SWAT). Espera a que lleguen los refuerzos y deja al SWAT ir delante ya que ellos van mejor armados y se dedican a los asaltos. Una vez dentro, dispara a cualquiera que tenga arma desenfundada. Acto seguido, pon las esposas (siguiendo el procedimiento de arresto) a todo el que no lleve arma. Busca las printers por toda la propiedad. Guíate por el sonido.
+
+.. image:: ../img/printerbar.png
+
+
+Una vez encuentres las printers, verás que normalmente están protegidas por una especie de caja. Busca el prop que se abre con el Battering Bam y ábrelo. Pon en busca y captura a la persona que pone que es el dueño de la printer (ej. Tenencia ilícita de printers ilegales). Luego sácala y rómpela con el Stun stick.
+
+Puedes también detener a los que estaban en la propiedad si consideras que sabían que tenían printers dentro y no han dado aviso a la policía. (ej. Complicidad en la tenencia de printers ilícitas
+
+Asalto al nexus
+^^^^^^^^^^^^^^^
+De repente aparece una noticia en el periódico: ¡están asaltando el ayuntamiento!
