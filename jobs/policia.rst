@@ -27,7 +27,7 @@ Ahora que eres un nuevo agente, preséntate por radio y pide órdenes. Por ejemp
 
 Echa un vistazo a la agenda del gobierno para enterarte de las tareas actuales y además saber las contraseñas. 
 
-Luego, llama al ascensor y baja al piso que da a la calle. Busca las leyes si hay alcalde (pregunta a algún compañero sin miedo por su posición) y apréndetelas.
+Antes de bajar, comprueba que las celdas estén cerradas. Luego, llama al ascensor y baja al piso que da a la calle. Busca las leyes si hay alcalde (pregunta a algún compañero sin miedo por su posición) y apréndetelas.
 
 Acto seguido, ve a por tu coche a la gasolinera y apárcalo en el garaje o en alguna plaza de aparcamiento. (Por favor, no lo dejes por ahí mal aparcado o en doble fila)
 
@@ -139,6 +139,8 @@ Lo más seguro es que haya gente por fuera, esperando para disparar policías en
 
 Entonces, id subiendo poco a poco en el nexus, limpiando las plantas una a una. El nexus tiene, sin contar el garaje, cuatro plantas en total. Cuando lleguéis arriba, si el SWAT no ha podido encargarse de los asaltantes, tendréis que disparar a todo aquel que tenga un arma desenfundada. Pero cuidado: pueden tener al alcalde secuestrado. En ese caso, sigue la guía de secuestros.
 
-Si todo ha ido bien, baja poco a poco limpiando otra vez los pisos despacio. Luego, al bajar abajo, asegúrate de que los asaltantes no han huído. Si lo han hecho, sígueles. 
+Si todo ha ido bien, baja poco a poco limpiando otra vez los pisos despacio. Luego, al bajar al piso 0, asegúrate de que los asaltantes no han huído. Si lo han hecho, sígueles. 
 
-Luego, pide al alcalde que quite el locdown una vez se publique en el periódico. (Los asaltantes pondrán un advert diciendo *Asalto finalizado*)
+Al terminar, pide al alcalde que quite el locdown una vez se publique que ha terminmado el asalto en el periódico. (Los asaltantes pondrán un advert diciendo *Asalto finalizado*)
+
+*A veces, el asalto  no es para secuestrar al alcalde sino para abrir las celdas para sacar a alguien. Comprueba siempre si las celdas están abiertas al finalizar un asalto.*
