@@ -54,7 +54,7 @@ Lockdown significa toque de queda. Esto quiere decir que todos los ciudadanos de
 Printer
 ^^^^^^^
 
-..image:: ../img/printers.png
+.. image:: ../img/printers.png
 
 Una printer es un aparato ilegal (siempre que esté fuera del banco) que fabrica dinero. Son fácilmente identificables por su sonido de impresora antigua y también por su explosión si se sobrecalientan.
 
@@ -88,7 +88,7 @@ Comandos
 --------
 
 * ``/wanted usuario razón`` pone al usuario en cuestión en busca y captura. Será fácilmente identificable por la policía. Es necesario para detener a alguien.
-* ``/wanted usuario razón`` quita a alguien de la lista de personas en busca y captura.
+* ``/unwanted usuario razón`` quita a alguien de la lista de personas en busca y captura.
 * ``/warrant usuario razón`` solicita orden de registro a la propiedad de una persona por la razón indicada. Si hay alcalde, tendrá que aceptarla.
 * ``/channel número`` establece el canal de radio por el que se mandarán los mensajes. 
 * ``/radio mensaje`` manda un mensaje por el canal de radio que hayas establecido. (No es lo mismo que el chat de grupo del gobierno, aunque a veces lo llamemos radio)
