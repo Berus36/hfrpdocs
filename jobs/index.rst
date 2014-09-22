@@ -14,6 +14,7 @@ Existen una serie de guías explicativas para algunos jobs con el objetivo de so
    alcalde
    policia
    paramedico
+   ciudadano
    mendigo
    gruista
    
