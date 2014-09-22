@@ -35,6 +35,20 @@ Recomendamos patrullar siempre en parejas como mínimo ya que es más seguro y p
 
 Conceptos básicos
 -----------------
+Código de conducta
+^^^^^^^^^^^^^^^^^^
+Eres un agente de policía y debes comportarte como tal. Intenta seguir este código de conducta:
+
+* Sé amable con los ciudadanos, estás para ayudarles.
+* Respeta a tus superiores y trátales de usted.
+* Trata bien a tus compañeros.
+* No consumas drogas.
+* No desenfundes el arma a menos que sea estrictamente necesario.
+* Conduce bien, no te saltes semáforos ni vayas excesivamente rápido.
+* Aparca bien, en tu garaje. La grúa no se lleva coches de policía, pero aun así estarás estorbando la circulación.
+
+*Usa el sentido común a la hora de actuar, piensa si un policía lo haría en la realidad.*
+
 Wanted o En busca y captura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
