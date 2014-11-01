@@ -43,3 +43,11 @@ Guías de jobs:
    jobs
    jobs/index
    
+   
+Registro de cambios:
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   changelog
