@@ -9,6 +9,7 @@ Funciones del SWAT
 * Respuesta a situaciones de peligro (secuestros, asaltos, registros, personas armadas, etc.)
 * Protección del alcalde en el interior del ayuntamiento
 * Control de personas dentro del ayuntamiento
+* Antidisturbios, control de masas y lockdowns
 
 Cosas a tener en cuenta
 ^^^^^^^^^^^^^^^^^^^^^^^
