@@ -42,7 +42,14 @@ Guías de jobs:
 
    jobs
    jobs/index
-   
+
+Otras guías:
+--------------
+
+.. toctree::
+   :maxdepth: 2
+
+   guias/index
    
 Registro de cambios:
 -------------------
