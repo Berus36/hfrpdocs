@@ -6,6 +6,12 @@ En esta página se pondrán los cambios registrados desde el día 01/11/2014
 21/11/2014
 ^^^^^^^^^^
 
+* Los coches explotan al chocarse
+* El mecánico tiene ahora dos llaves inglesas que tendrá que usar según el estado del vehiculo
+
+21/11/2014
+^^^^^^^^^^
+
 * Retiradas las setas alucinógenas del F4
 
 08/11/2014
