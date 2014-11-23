@@ -3,6 +3,11 @@ Registro de cambios
 
 En esta página se pondrán los cambios registrados desde el día 01/11/2014
 
+23/11/2014
+^^^^^^^^^^
+
+* Retirado el anuncio del F4
+
 22/11/2014
 ^^^^^^^^^^
 
