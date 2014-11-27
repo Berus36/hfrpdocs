@@ -58,7 +58,7 @@ Normas de rol generales
 25. Debes tratar a todo el mundo como un ciudadano normal excepto si es policía, swat, alcalde, paramédico o chef
 26. No debes rolear con alguien que tenga de job Administrador
 27. Cuando te expulsan de un coche con el Battering Ram no puedes volver a subir a él hasta que el policía te lo indique
-
+28. Si alguien te está apuntando con un arma y te dice que te bajes de un coche debes bajar siempre y cuando no estés conduciendo.
 
 Normas de props
 ---------------
