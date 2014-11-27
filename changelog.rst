@@ -3,6 +3,13 @@ Registro de cambios
 
 En esta página se pondrán los cambios registrados desde el día 01/11/2014
 
+27/11/2014
+^^^^^^^^^^
+
+* Sirenas y luces de emergencia mejoradas
+* Sistema de dia/noche
+* Nueva norma: 28 de rol general
+
 23/11/2014
 ^^^^^^^^^^
 
