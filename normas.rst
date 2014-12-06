@@ -59,6 +59,7 @@ Normas de rol generales
 26. No debes rolear con alguien que tenga de job Administrador
 27. Cuando te expulsan de un coche con el Battering Ram no puedes volver a subir a él hasta que el policía te lo indique
 28. Si alguien te está apuntando con un arma y te dice que te bajes de un coche debes bajar siempre y cuando no estés conduciendo.
+29. Subirse encima de alguien taseado puede ser considerado RDM.
 
 Normas de props
 ---------------
@@ -251,7 +252,6 @@ Ciudadano
 2. No puedes usar una lockpick ni un keypad cracker, tampoco asaltar, participar en asaltos ni robar dinero, comida, printers, etc.
 3. No puedes matar al alcalde.
 4. No puedes retirar el hackeador de cajeros del banco.
-5. Subirse encima de alguien taseado puede ser considerado RDM.
 
 Mendigo
 ^^^^^^^
