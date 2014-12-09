@@ -26,7 +26,7 @@ Normas de chat
 
 1. No spamees por chat
 2. No uses informacion del chat de OOC o del tabulador para tu rol.
-3. No discutas por OOC
+3. No discutas por OOC y mucho menos por IC
 
 Normas de rol generales
 -----------------------
@@ -111,7 +111,7 @@ Normas de vehículos
 7. No hagas un coche a base de props
 8. No te subas a tu coche para acceder a zonas más altas
 9. No se puede meter el coche a edificios salvo que sea a través de un garaje.
-10. Prohibido poner anuncios o datáfonos en los coches.
+10. Prohibido poner anuncios en los coches.
 11. La policía debe llevar su coche de oficio al igual que los paramédicos.
 
 Normas sobre asaltos
@@ -165,7 +165,7 @@ SWAT
 1. Se aplican las normas de policía salvo que alguna interfiera con la otra
 2. El SWAT no debe patrullar. Su función es participar en redadas/asaltos policiales. Puede responder a los /cr.
 3. El SWAT no puede ser corrupto
-4. El SWAT debe usar el Hammer
+4. El SWAT debe usar el Hammer o en su defecto el coche patrulla
 
 Paramédico
 ^^^^^^^^^^
@@ -214,6 +214,8 @@ Vendedor de armas
 
 1. No te puedes aliar con nadie pero puedes tener una tienda común siempre y cuando no la hagas con otro jugador con el mismo job.
 2. Puedes contratar máximo un solo guardia de seguridad.
+3. Debes de tener una tienda para la venta al público, no puedes vender sin tu local terminado, también debes anunciar de vez en cuando tu tienda por IC.
+4. No puede desenfundar ni amenazar a ningún cliente con sus armas.
 
 Vendedor del mercado negro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -221,6 +223,7 @@ Vendedor del mercado negro
 1. No te puedes aliar con nadie pero puedes tener una tienda común siempre y cuando no la hagas con otro jugador con el mismo job.
 2. Ten en cuenta que todo lo que vendes, excepto la municion y el kit de primeros auxilios, es ilegal, te pueden detener por promocionar o vender dichos objetos.
 3. No puedes contratar un guardia de seguridad. (Tampoco puedes estar en una tienda con un guardia, aunque no sea tuyo)
+4. Puedes tener una tienda para vender de forma legal (lo que se menciona en la norma 2 de esta sección).
 
 Banquero
 ^^^^^^^^
